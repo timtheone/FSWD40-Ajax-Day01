@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<discography>
+    <song id="1">
+        <title>Gravity</title>
+        <artist>John Mayer</artist>
+        <genre>blues</genre>
+        <country>USA</country>
+        <year>2007</year>
+        <image>http://via.placeholder.com/150x50</image>
+    </song>
+
+    <song id="2">
+        <title>Nice for what</title>
+        <artist>Drake</artist>
+        <genre>Hip-hop</genre>
+        <country>Canada</country>
+        <year>2018</year>
+        <image>http://via.placeholder.com/250x100</image>
+    </song>
+    
+    <song id="3">
+        <title>I like it</title>
+        <artist>Cardi B</artist>
+        <genre>Hip-hop</genre>
+        <country>USA</country>
+        <year>2018</year>
+        <image>http://via.placeholder.com/150x150</image>
+    </song>
+
+    <song id="4">
+        <title>Girls Like you</title>
+        <artist>Maroon 5</artist>
+        <genre>Pop</genre>
+        <country>USA</country>
+        <year>2018</year>
+        <image>http://via.placeholder.com/150x50</image>
+    </song>
+
+    <song id="5">
+        <title>Little Wing</title>
+        <artist>Jimmi Hendrix</artist>
+        <genre>Classic rock</genre>
+        <country>USA</country>
+        <year>1967</year>
+        <image>http://via.placeholder.com/150x50</image>
+    </song>
+
+    <song id="6">
+        <title>Thriller</title>
+        <artist>Michael Jackson</artist>
+        <genre>Pop</genre>
+        <country>USA</country>
+        <year>1982</year>
+        <image>http://via.placeholder.com/150x50</image>
+    </song>
+
+    <song id="7">
+        <title>Like a Prayer</title>
+        <artist>Madonna</artist>
+        <genre>Pop</genre>
+        <country>USA</country>
+        <year>1984</year>
+        <image>http://via.placeholder.com/250x100</image>
+    </song>
+
+    <song id="8">
+        <title>Purple Rain</title>
+        <artist>Prince</artist>
+        <genre>Pop</genre>
+        <country>USA</country>
+        <year>1984</year>
+        <image>http://via.placeholder.com/150x50</image>
+    </song>
+
+    <song id="9">
+        <title>Baby One more Time</title>
+        <artist>Britney Spears</artist>
+        <genre>Pop</genre>
+        <country>USA</country>
+        <year>1998</year>
+        <image>http://via.placeholder.com/250x100</image>
+    </song>
+
+    <song id="10">
+        <title>Hello</title>
+        <artist>Adelle</artist>
+        <genre>Pop</genre>
+        <country>UK</country>
+        <year>2015</year>
+        <image>http://via.placeholder.com/250x100</image>
+    </song>
+
+    <song id="11">
+        <title>Ne me quitte pas</title>
+        <artist>Jacques Brel</artist>
+        <genre>Pop</genre>
+        <country>France</country>
+        <year>1959</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="12">
+        <title>99 Luftballons</title>
+        <artist>Nena</artist>
+        <genre>Pop</genre>
+        <country>Germany</country>
+        <year>1983</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="13">
+        <title>Kashmir</title>
+        <artist>Led Zeppelin</artist>
+        <genre>Classic Rock</genre>
+        <country>UK</country>
+        <year>1975</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="14">
+        <title>Baby I'm gonna leave you</title>
+        <artist>Led Zeppelin</artist>
+        <genre>Classic rock</genre>
+        <country>UK</country>
+        <year>1969</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="15">
+        <title>Derniere danse</title>
+        <artist>Indila</artist>
+        <genre>Pop</genre>
+        <country>France</country>
+        <year>2014</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="16">
+        <title>My heart will go on</title>
+        <artist>Celine Dion</artist>
+        <genre>Pop</genre>
+        <country>Canada</country>
+        <year>1997</year>
+        <image>http://via.placeholder.com/100x150</image>
+    </song>
+
+    <song id="17">
+        <title>Sur ma route</title>
+        <artist>Black M</artist>
+        <genre>Pop</genre>
+        <country>France</country>
+        <year>2014</year>
+        <image>http://via.placeholder.com/150x150</image>
+    </song>
+
+    <song id="18">
+        <title>I'm gonna find another you</title>
+        <artist>John Mayer</artist>
+        <genre>blues</genre>
+        <country>USA</country>
+        <year>2007</year>
+        <image>http://via.placeholder.com/150x150</image>
+    </song>
+
+    <song id="19">
+        <title>Lenny</title>
+        <artist>Stevie Ray Vaughan</artist>
+        <genre>blues</genre>
+        <country>USA</country>
+        <year>1983</year>
+        <image>http://via.placeholder.com/150x150</image>
+    </song>
+
+    <song id="20">
+        <title>Magnolia</title>
+        <artist>Eric Clapton</artist>
+        <genre>Blues</genre>
+        <country>UK</country>
+        <year>2014</year>
+        <image>http://via.placeholder.com/150x150</image>
+    </song>     
+</discography>
