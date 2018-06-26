@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basic 1</title>
+</head>
+<body>
+    <h1>Basic 1</h1>
+    <button type="button" onclick="loadData()">Retrieve Data</button>
+    <div>
+        <p id="placeholder"></p>
+    </div>
+    <script>
+        function loadData() {
+            let xhttp = new XMLHttpRequest();
+
+            xhttp.onload = function(){
+                if (this.status === 200) {
+                    document.getElementById("placeholder").innerHTML = this.responseText;
+                };
+            };
+            xhttp.open("GET","data.txt",true);
+            xhttp.send();
+        };
+   
+    </script>
+</body>
+</html>
